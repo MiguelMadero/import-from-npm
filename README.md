@@ -1,5 +1,6 @@
 # Import-from-npm
 
+
 This is probably a bad idea and official support is coming soon. This won't work CommonJS modules and it won't create shims for require modules. However if the node_module you're after will work by simply importing (e.g. lodash, lgtm) or you're happy writing the shim yourself this can be a good solution for you. 
 
 Simply install it: 
