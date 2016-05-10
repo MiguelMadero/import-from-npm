@@ -1,5 +1,5 @@
 {
-  "name": "import-from-npm",
+  "name": "ember-cli-import-from-npm",
   "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
