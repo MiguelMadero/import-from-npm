@@ -6,7 +6,7 @@ This is probably a bad idea and official support is coming soon. This won't work
 Simply install it: 
 
 ```
-ember install import-from-npm
+ember install ember-cli-import-from-npm
 ```
 
 Then import from node_modules in the same way you would from bower. 
