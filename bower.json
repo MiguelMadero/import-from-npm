@@ -1,5 +1,5 @@
 {
-  "name": "import-from-npm",
+  "name": "ember-cli-import-from-npm",
   "dependencies": {
     "ember": "~2.4.3",
     "ember-cli-shims": "0.1.1",
